@@ -10,3 +10,4 @@ class Program
         int b = 7
         int sum = a + b;
         Console.WriteLine(sum);
+    }
